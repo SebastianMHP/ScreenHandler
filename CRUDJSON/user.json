@@ -1,0 +1,27 @@
+{
+  "id": 123,
+  "Universidad": "INTEC",
+  "Dirreccion": {
+    "Calle": "Av.Los Proceres",
+    "Ciudad": "Santo Domingo",
+    "codigoPostal": 10602
+  },
+  "students": [
+    {
+      "studentid": 1098,
+      "studentname": "Erick Gonzalez"
+    },
+    {
+      "studentid": 1508,
+      "studentname": "Francisco Hernandez"
+    },
+    {
+      "studentid": 3031,
+      "studentname": "Julio Figuereo"
+    },
+    {
+      "studentid": 6769,
+      "studentname": "Luis Perez"
+    }
+  ]
+}
